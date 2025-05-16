@@ -1,0 +1,5 @@
+#!/home/alireza/.nvm/versions/node/v22.15.1/bin/node
+
+let city = 'tehran';
+let state = 'ostane tehran';
+console.log(city,state);
